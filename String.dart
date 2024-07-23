@@ -42,3 +42,34 @@ void main() {
   
   
 }
+/*
+void main() {
+  
+  // Constant and Final keyword
+  // final variable can on;y be set once and it is initialized when         // accessed
+  
+  // const variable is implicitly final but it is a compile time constant 
+  // ie. it is initialized during compilation
+  
+  // Instance varibale can be final but cant be const
+  
+  // final 
+  final String cityName = "Delhi";
+  // cityName = "Mumbai";
+  
+  final String countryName = "Bharat";
+  
+  // constant
+  const double E = 2.78;
+  const gravity = 9.8;
+  
+}
+
+
+class Circle {
+  
+  final color = 'Red';
+  static const PI = 3.14;
+}
+
+*/
