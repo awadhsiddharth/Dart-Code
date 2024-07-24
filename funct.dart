@@ -13,3 +13,14 @@ int findVolume(int l, {required int b, required int h}) {
   print("Volume is ${l * b * h}");
    return l;
 }
+
+void main(){
+  int a=findVolume(2,b:3);
+  print(a);
+}
+
+// optional default parameter
+
+int findVolume(int l,{int b=2,int h=10}){
+  return l*b*h;
+}
