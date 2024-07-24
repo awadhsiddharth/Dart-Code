@@ -19,7 +19,7 @@ void sleep() {
 void main() {
   
   // while creating an obj new keyword is optional
-  var student1 = Student();
+  var student1 = Student();  // 1 object nd a reference variable
   // Student student1 = new Student();
   student1.id = 23;
   student1.name = "Harry";
@@ -31,7 +31,7 @@ void main() {
   print("****************");
   print("");
   
-  var stud2 = Student();
+  var stud2 = Student();  // 1 object nd a reference variable
   stud2.id = 24;
   stud2.name = "Samuel";
  
