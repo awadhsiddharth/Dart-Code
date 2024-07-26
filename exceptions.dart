@@ -1,6 +1,6 @@
 // User defined exception
 
- void main(){
+ void main(){ 
    
    // Case -5
    // Custom Exception
