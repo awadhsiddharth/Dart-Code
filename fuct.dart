@@ -1,6 +1,6 @@
  void main() {
    
-   findPerimeter(4,2);
+   findPerimeter(4,2); 
    int rectArea = getArea(3,4);
    print("The area is $rectArea");
  }
