@@ -1,6 +1,6 @@
 // define states and behavior of a student
 
-class Student{
+class Student{ 
 
   // instance or field value
   // it has default value of null
